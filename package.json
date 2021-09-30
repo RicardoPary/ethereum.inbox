@@ -1,5 +1,5 @@
 {
-  "name": "inbox",
+  "name": "Smart Contract Inbox",
   "version": "1.0.0",
   "description": "test",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RicardoPary/ethereum.inbox.git"
+    "url": "git+https://github.com/RicardoPary/smart-contract-inbox.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RicardoPary/ethereum.inbox/issues"
+    "url": "https://github.com/RicardoPary/smart-contract-inbox/issues"
   },
-  "homepage": "https://github.com/RicardoPary/ethereum.inbox#readme",
+  "homepage": "https://github.com/RicardoPary/smart-contract-inbox#readme",
   "dependencies": {
     "solc": "^0.4.26",
     "web3": "^1.5.3",

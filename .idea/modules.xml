@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ethereum.inbox.iml" filepath="$PROJECT_DIR$/.idea/ethereum.inbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/smart-contract-inbox.iml" filepath="$PROJECT_DIR$/.idea/smart-contract-inbox.iml" />
     </modules>
   </component>
 </project>

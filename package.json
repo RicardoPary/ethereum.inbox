@@ -18,8 +18,8 @@
   "homepage": "https://github.com/RicardoPary/smart-contract-inbox#readme",
   "dependencies": {
     "solc": "^0.4.26",
-    "web3": "^1.5.3",
-    "mocha": "^9.1.2",
+    "web3": "^1.7.3",
+    "mocha": "^10.0.0",
     "ganache-cli": "^6.12.2",
     "truffle-hdwallet-provider": "^1.0.17"
   }

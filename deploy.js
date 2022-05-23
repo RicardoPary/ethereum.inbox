@@ -1,13 +1,13 @@
 const HDWalletProvider = require('truffle-hdwallet-provider');
 const Web3 = require('web3');
 const {interface, bytecode} = require('./compile')
-const {environment} = require("./environment");
+// const {environment} = require("./environment");
 
 const INITIAL_STRING = 'Hi there!'
 
 const provider = new HDWalletProvider(
-    environment.mnemonic,
-    environment.network
+    'boy joy upgrade pond waste genuine father wolf raccoon misery length message',
+    'https://rinkeby.infura.io/v3/cdb1db7fb3e044f7b251855b1083804d'
 );
 
 const web3 = new Web3(provider);
